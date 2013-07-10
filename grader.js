@@ -16,7 +16,7 @@ References:
    - http://tjholowaychuk.com/post/9103188408/commander-js-nodejs-command-line-interfaces-made-easy
 
  + JSON
-   - http://en.wikipedia.org/wiki/JSON
+   - http://en.wikipedia.org/wiki/JSON - read
    - https://developer.mozilla.org/en-US/docs/JSON
    - https://developer.mozilla.org/en-US/docs/JSON#JSON_in_Firefox_2
 */
