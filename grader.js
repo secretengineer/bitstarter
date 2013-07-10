@@ -74,7 +74,7 @@ if(require.main == module) {
             console.log("Error with URL");
             process.exit(1);
           } else {
-            run(result;)
+            run(result);
           }
         }
       } else {
